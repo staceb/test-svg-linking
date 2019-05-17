@@ -1,7 +1,7 @@
 # test-svg-linking
 
 
-![Alt text](./build-process.svg??sanitize=true)
+![Alt text](./build-process.svg?sanitize=true)
 
 
 
